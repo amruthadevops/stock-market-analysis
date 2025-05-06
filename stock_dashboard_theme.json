@@ -1,0 +1,35 @@
+{
+    "name": "Professional Stock Dashboard",
+    "dataColors": ["#2563EB", "#10B981", "#F59E0B", "#EF4444", "#6366F1", "#6EE7B7"],
+    "background": "#1B4332",
+    "foreground": "#F9FAFB",
+    "tableAccent": "#2563EB",
+    "visualStyles": {
+      "*": {
+        "*": {
+          "color": [{ "solid": { "color": "#F9FAFB" } }],
+          "background": [{ "solid": { "color": "#1B4332" } }],
+          "fontSize": [{ "fontSize": 12 }]
+        }
+      },
+      "card": {
+        "*": {
+          "background": [{ "solid": { "color": "#FFFFFF" } }],
+          "color": [{ "solid": { "color": "#1F2937" } }],
+          "border": [{
+            "show": true,
+            "color": { "solid": { "color": "#D1D5DB" } }
+          }]
+        }
+      },
+      "slicer": {
+        "*": {
+          "background": [{ "solid": { "color": "#FFFFFF" } }],
+          "color": [{ "solid": { "color": "#1F2937" } }],
+          "fontSize": [{ "fontSize": 12 }]
+        }
+      }
+    }
+  }
+
+  
