@@ -89,6 +89,7 @@ The final models provide predictive insights about stock price direction and mar
 - Automate data pipeline and reporting
 
 
+## Contact 
 
 AMRUTHA C
 
