@@ -10,16 +10,7 @@ To analyze historical stock data using data science techniques in order to uncov
 ##  📊  Tech Stack
 
 - **Language**: Python
-- **Libraries**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `TA-Lib`, `XGBoost`
-- **Techniques Used:**: Time series analysis,
-
-    Technical indicators (MACD, RSI, Bollinger Bands),
-
-    Feature engineering,
-
-    Classification & Regression Models,
-
-    Model evaluation metrics (accuracy, precision, recall)
+- **Libraries**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`
 - **Development Tools**: Jupyter Notebook, VS Code
 
 ##  🔍 Key Features
